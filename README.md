@@ -6,17 +6,29 @@ I am intrigued with the idea of developing an app. This is my chance to learn ho
 Here is a list of what has been accomplished so far.
 
 Swift Review
+
 Day 1 Variables, Simple Data Types, and String Interpolation 
+
 Day 2 Arrays, Dictionaries, Sets, and Enums
+
 Day 3 Operators and Conditions
+
 Day 4 Loops
+
 Day 5 Functions, Parameters, and Errors
+
 Day 6 Closures
+
 Day 7 Closures 
+
 Day 8 Structs, Properties, and Methods
+
 Day 9 Access Control, Static Properties
+
 Day 10 Classes and Inheritance
+
 Day 11 Protocols, Extensions, and Protocol Extensions
+
 Day 12 Optionals, Unwrapping, and Typecasting
 
 
